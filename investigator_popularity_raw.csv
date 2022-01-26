@@ -20220,8 +20220,6 @@ id,name,date_creation,investigator_code,investigator_name,create_year,create_mon
 22717,Oliver's Special Something Extra More,2020-05-16 22:30:17,3002,Minh Thi Phan,2020,5,16
 22718,Oliver's Special Something Extra More,2020-05-16 22:30:17,3002,Minh Thi Phan,2020,5,16
 22723,dustin's luke deck (publishing for tts ignore me),2020-05-16 22:50:35,6004,Luke Robinson,2020,5,16
-22726,Joe Diamond Investigates,2020-05-17 00:40:40,5002,Joe Diamond,2020,5,17
-22727,Joe Diamond Investigates,2020-05-17 00:40:40,5002,Joe Diamond,2020,5,17
 22728,Papa Matt's Funtime Hour,2020-05-17 01:13:08,4004,Father Mateo,2020,5,17
 22729,Daisy Knowledge is Power,2020-05-17 03:01:23,1002,Daisy Walker,2020,5,17
 22730,"""Skids"" O'Toole - Solo Deck (Core Only)",2020-05-17 06:16:32,1003,"""Skids"" O'Toole",2020,5,17
@@ -20505,11 +20503,9 @@ id,name,date_creation,investigator_code,investigator_name,create_year,create_mon
 23048,Oliver's Special Something Extra More,2020-05-24 20:24:27,3002,Minh Thi Phan,2020,5,24
 23049,Oliver's Special Something Extra More,2020-05-24 20:24:27,3002,Minh Thi Phan,2020,5,24
 23050,Mark Harrigan 2 player,2020-05-24 21:15:44,3001,Mark Harrigan,2020,5,24
-23051,Rich Idiot with No Day Job,2020-05-24 21:31:01,5003,Preston Fairmont,2020,5,24
 23052,Rex Murphy Investigates 2 player carcosa,2020-05-24 21:49:16,2002,Rex Murphy,2020,5,24
 23053,Reap what you Rousseau,2020-05-24 22:27:30,3003,Sefina Rousseau,2020,5,24
 23054,Reap what you Rousseau (Upgraded),2020-05-24 22:28:00,3003,Sefina Rousseau,2020,5,24
-23055,Rich Idiot with No Day Job,2020-05-24 22:37:09,5003,Preston Fairmont,2020,5,24
 23056,Click Click Bop upgrade sim,2020-05-24 22:51:29,3004,Akachi Onyele,2020,5,24
 23057, Jenny Barnes money money money,2020-05-25 07:48:22,2003,Jenny Barnes,2020,5,25
 23058,Minh Thi Phan para primera campaña,2020-05-25 08:26:14,3002,Minh Thi Phan,2020,5,25
@@ -20645,7 +20641,6 @@ id,name,date_creation,investigator_code,investigator_name,create_year,create_mon
 23194,Jenny Barnes Charity Gala Visor,2020-05-30 23:02:32,2003,Jenny Barnes,2020,5,30
 23195,Agnes Undoing,2020-05-31 02:46:42,1004,Agnes Baker,2020,5,31
 23196,The Adventures of Carolyn Fern (Before Versatile),2020-05-31 03:10:23,5001,Carolyn Fern,2020,5,31
-23197,Rich Idiot with No Day Job,2020-05-31 03:17:26,5003,Preston Fairmont,2020,5,31
 23198,Oh the horror of Rex,2020-05-31 03:33:17,2002,Rex Murphy,2020,5,31
 23199,Oh the horror of Rex,2020-05-31 03:38:01,2002,Rex Murphy,2020,5,31
 23200,Carolyn Diagnoses a Dreamer,2020-05-31 05:48:41,5001,Carolyn Fern,2020,5,31
@@ -22694,7 +22689,6 @@ id,name,date_creation,investigator_code,investigator_name,create_year,create_mon
 25539,Calvin Wright_PTT中文攻略,2020-09-20 06:54:33,4005,Calvin Wright,2020,9,20
 25540,Zoe & “Debbie”— frenemy roomies,2020-09-20 07:31:33,2001,Zoey Samaras,2020,9,20
 25541,Zoe & “Debbie”— frenemy roomies,2020-09-20 07:31:33,2001,Zoey Samaras,2020,9,20
-25542,"Marie, a Mystic Powerhouse (Deck Guide)",2020-09-20 10:24:54,99001,Marie Lambeau,2020,9,20
 25543,Daisy Walker - Arcane Draw,2020-09-20 10:31:03,1002,Daisy Walker,2020,9,20
 25546,Jim Culver Likes Skulls,2020-09-20 14:50:32,2004,Jim Culver,2020,9,20
 25547,Diana Stanley and Finn Edwards in The Forgotten Age,2020-09-20 15:41:29,5004,Diana Stanley,2020,9,20
@@ -23299,7 +23293,6 @@ id,name,date_creation,investigator_code,investigator_name,create_year,create_mon
 26223,Minh Does Things (But Worse),2020-10-20 15:52:51,3002,Minh Thi Phan,2020,10,20
 26224,The Adventures of Nathaniel Cho,2020-10-20 17:09:48,60101,Nathaniel Cho,2020,10,20
 26225,"""One Night"" Amanda - Found Family (Prologue)",2020-10-20 21:26:42,7002,Amanda Sharpe,2020,10,20
-26226,Legacy - True Solo,2020-10-20 21:46:46,5003,Preston Fairmont,2020,10,20
 26227,"""One Night"" Amanda - Found Family 1",2020-10-20 22:32:17,7002,Amanda Sharpe,2020,10,20
 26228,"""One Night"" Amanda - Found Family (1–Extracurricular Activ",2020-10-20 22:32:17,7002,Amanda Sharpe,2020,10,20
 26229,Mandy Journies to Yharnam,2020-10-21 03:37:41,6002,Mandy Thompson,2020,10,21
@@ -23417,7 +23410,6 @@ id,name,date_creation,investigator_code,investigator_name,create_year,create_mon
 26356,The Ever Resourceful Patrice Hathaway (Full XP),2020-10-27 04:36:12,6005,Patrice Hathaway,2020,10,27
 26357,Agnes's Grandma reads her Fairy Tales,2020-10-27 05:36:21,1004,Agnes Baker,2020,10,27
 26358,Calvin Wright - Mr. Immortal,2020-10-27 08:12:22,4005,Calvin Wright,2020,10,27
-26359,Naissance d'une sorcière,2020-10-27 08:46:46,1004,Agnes Baker,2020,10,27
 26360,"Ideal Zoey w/ Rex (30 Exp, Core/Dunwich)",2020-10-27 09:22:44,2001,Zoey Samaras,2020,10,27
 26361,Rex Murphy Investigates,2020-10-27 12:01:53,2002,Rex Murphy,2020,10,27
 26362,Mark Harrigan beats the crap outta you (10xp),2020-10-27 12:03:21,3001,Mark Harrigan,2020,10,27
@@ -26358,11 +26350,7 @@ id,name,date_creation,investigator_code,investigator_name,create_year,create_mon
 29600,The Adventures of Sister Mary (clone),2021-03-27 16:41:38,7001,Sister Mary,2021,3,27
 29601,Rex Murphy - Hard Hitting News,2021-03-27 16:44:09,2002,Rex Murphy,2021,3,27
 29602,Rex Murphy - Hard Hitting News,2021-03-27 16:44:09,2002,Rex Murphy,2021,3,27
-29603,Akachi's Birthday,2021-03-27 20:50:44,3004,Akachi Onyele,2021,3,27
-29604,Akachi's Birthday,2021-03-27 21:04:02,3004,Akachi Onyele,2021,3,27
 29605,Wendy Adams on the Road,2021-03-28 00:38:37,1005,Wendy Adams,2021,3,28
-29606,Akachi's Birthday Scenario 2,2021-03-28 01:54:26,3004,Akachi Onyele,2021,3,28
-29607,Akachi's Birthday Scenario 2,2021-03-28 01:54:26,3004,Akachi Onyele,2021,3,28
 29608,Nathaniel Cho Draft Dunwich,2021-03-28 02:42:10,60101,Nathaniel Cho,2021,3,28
 29609,Daisy Draft Dunwich,2021-03-28 02:43:01,1002,Daisy Walker,2021,3,28
 29610,William Yorick on the Road,2021-03-28 02:55:01,3005,William Yorick,2021,3,28
@@ -26546,7 +26534,7 @@ id,name,date_creation,investigator_code,investigator_name,create_year,create_mon
 29799,Rex Murphy Search and Destroy,2021-04-04 16:44:35,2002,Rex Murphy,2021,4,4
 29800,Sister Mary - advice welcome.,2021-04-04 23:13:50,7001,Sister Mary,2021,4,4
 29801,Finn in Forgotten Age 1.0,2021-04-05 00:48:40,4003,Finn Edwards,2021,4,5
-29802,Akachi's Birthday Scenario 2,2021-04-05 01:21:03,3004,Akachi Onyele,2021,4,5
+29802,Akachi's Birthday,2021-04-05 01:21:03,3004,Akachi Onyele,2021,4,5
 29803,Akachi's Birthday Scenario 2,2021-04-05 01:21:03,3004,Akachi Onyele,2021,4,5
 29805,Balanced Cluever Stella,2021-04-05 07:07:42,60501,Stella Clark,2021,4,5
 29806,Balanced Cluever Stella,2021-04-05 07:07:42,60501,Stella Clark,2021,4,5
@@ -27121,8 +27109,6 @@ id,name,date_creation,investigator_code,investigator_name,create_year,create_mon
 30448,Hair of the Dog,2021-05-03 01:06:58,6003,Tony Morgan,2021,5,3
 30449,The Adventures of Zoey Samaras,2021-05-03 02:59:14,2001,Zoey Samaras,2021,5,3
 30450,Seeking Answers in Pain - Zoey Samaras,2021-05-03 03:04:13,2001,Zoey Samaras,2021,5,3
-30451,Carolyn Fern Draft 5=2,2021-05-03 04:26:55,5001,Carolyn Fern,2021,5,3
-30452,Carolyn Fern Draft 5=2,2021-05-03 04:26:55,5001,Carolyn Fern,2021,5,3
 30454,William Yorick is: 'Loggerface',2021-05-03 06:32:09,3005,William Yorick,2021,5,3
 30455,Throwing the book at Deep Ones,2021-05-03 06:49:33,3002,Minh Thi Phan,2021,5,3
 30456,True Spirit,2021-05-03 07:15:22,1004,Agnes Baker,2021,5,3
@@ -28587,7 +28573,6 @@ id,name,date_creation,investigator_code,investigator_name,create_year,create_mon
 32028,Cursed Tome Daisy Walker,2021-07-18 02:40:17,1002,Daisy Walker,2021,7,18
 32029,Cursed Tome Daisy Walker (FULL XP),2021-07-18 02:45:19,1002,Daisy Walker,2021,7,18
 32030,Diana Stanley - Circle Undone campaign scenario 1,2021-07-18 02:50:20,5004,Diana Stanley,2021,7,18
-32031,"""Ashcan"" Dunwhich",2021-07-18 03:42:26,2005,"""Ashcan"" Pete",2021,7,18
 32032,Akachad,2021-07-18 05:48:25,3004,Akachi Onyele,2021,7,18
 32033,Silly Man Commits Cards,2021-07-18 11:20:37,7005,Silas Marsh,2021,7,18
 32034,"Zoey, Multiplayer 4  0.1",2021-07-18 15:36:44,2001,Zoey Samaras,2021,7,18
@@ -29597,7 +29582,6 @@ id,name,date_creation,investigator_code,investigator_name,create_year,create_mon
 33181,A Daisy Walker no le gusta la bolsa del caos,2021-09-22 17:59:16,1002,Daisy Walker,2021,9,22
 33183,The Adventures of Mark Harrigan in Dunwich,2021-09-22 19:16:38,3001,Mark Harrigan,2021,9,22
 33184,Teach your friends! Beginners Daisy Deck - Cluever,2021-09-23 11:24:20,1002,Daisy Walker,2021,9,23
-33185,„Ashcan“ Pete auf dem Weg,2021-09-23 20:09:44,2005,"""Ashcan"" Pete",2021,9,23
 33186,Teach your friends! Beginners Finn Deck - Flex,2021-09-24 12:25:06,4003,Finn Edwards,2021,9,24
 33187,"Skill test?! PFFT, what skill test? vGD.15xpspent",2021-09-24 13:52:47,2004,Jim Culver,2021,9,24
 33188,Blessed Spells and Things,2021-09-24 15:20:56,5004,Diana Stanley,2021,9,24
@@ -29783,7 +29767,6 @@ id,name,date_creation,investigator_code,investigator_name,create_year,create_mon
 33364,Silas Marsh Commits Cards Nonstop,2021-10-04 15:57:28,7005,Silas Marsh,2021,10,4
 33365,Thorhammer 40k! (Thanks Folks!),2021-10-04 17:57:24,3005,William Yorick,2021,10,4
 33366,La Jenny bien acompañada,2021-10-04 19:17:45,2003,Jenny Barnes,2021,10,4
-33369,Los Misterios de Jacqueline Fine,2021-10-04 19:58:51,60401,Jacqueline Fine,2021,10,4
 33375,Cheng Long Nathaniel - v2.1 ,2021-10-05 03:17:01,60101,Nathaniel Cho,2021,10,5
 33376,Cheng Long Nathaniel - v2.1 ,2021-10-05 03:17:01,60101,Nathaniel Cho,2021,10,5
 33377,Mortal Kombat - Nathaniel Cho. - v1.0,2021-10-05 03:38:22,60101,Nathaniel Cho,2021,10,5
@@ -30862,3 +30845,625 @@ id,name,date_creation,investigator_code,investigator_name,create_year,create_mon
 34520,Tides of Father Mateo,2021-12-01 22:42:13,4004,Father Mateo,2021,12,1
 34521,Tides of Father Mateo,2021-12-01 22:42:13,4004,Father Mateo,2021,12,1
 34522,Tides of Father Mateo,2021-12-01 22:42:13,4004,Father Mateo,2021,12,1
+34461,William Yorick on the Road,2021-12-01 05:14:58,3005,William Yorick,2021,12,1
+34462,William Yorick on the Road,2021-12-01 05:29:06,3005,William Yorick,2021,12,1
+34463,William Yorick on the Road,2021-12-01 05:32:58,3005,William Yorick,2021,12,1
+34464,William Yorick on the Road,2021-12-01 05:43:52,3005,William Yorick,2021,12,1
+34465,William Yorick on the Road,2021-12-01 06:07:53,3005,William Yorick,2021,12,1
+34466,"Bob Jenkins, flexible and ready for Carcosa (0XP)",2021-12-01 08:45:08,8016,Bob Jenkins,2021,12,1
+34467,William Yorick on the Path to Carcosa,2021-12-01 11:06:07,3005,William Yorick,2021,12,1
+34468,William Yorick Never Leaves An Animal Behind,2021-12-01 11:20:00,3005,William Yorick,2021,12,1
+34469,William Yorick Never Leaves An Animal Behind,2021-12-01 11:20:00,3005,William Yorick,2021,12,1
+34470,William Yorick Never Leaves An Animal Behind,2021-12-01 11:20:00,3005,William Yorick,2021,12,1
+34471,William Yorick Never Leaves An Animal Behind,2021-12-01 11:20:00,3005,William Yorick,2021,12,1
+34472,William Yorick Never Leaves An Animal Behind,2021-12-01 11:20:00,3005,William Yorick,2021,12,1
+34473,William Yorick Never Leaves An Animal Behind,2021-12-01 11:20:00,3005,William Yorick,2021,12,1
+34474,William Yorick Never Leaves An Animal Behind,2021-12-01 11:20:00,3005,William Yorick,2021,12,1
+34475,William Yorick Never Leaves An Animal Behind,2021-12-01 11:20:00,3005,William Yorick,2021,12,1
+34476,William Yorick Never Leaves An Animal Behind,2021-12-01 11:20:00,3005,William Yorick,2021,12,1
+34477,Carolyn Cares For Animals,2021-12-01 11:22:40,5001,Carolyn Fern,2021,12,1
+34478,Carolyn Cares For Animals,2021-12-01 11:22:40,5001,Carolyn Fern,2021,12,1
+34479,Carolyn Cares For Animals,2021-12-01 11:22:40,5001,Carolyn Fern,2021,12,1
+34480,Carolyn Cares For Animals,2021-12-01 11:22:40,5001,Carolyn Fern,2021,12,1
+34481,Carolyn Cares For Animals,2021-12-01 11:22:40,5001,Carolyn Fern,2021,12,1
+34482,Carolyn Cares For Animals,2021-12-01 11:22:40,5001,Carolyn Fern,2021,12,1
+34483,Carolyn Cares For Animals,2021-12-01 11:22:40,5001,Carolyn Fern,2021,12,1
+34484,Carolyn Cares For Animals,2021-12-01 11:22:40,5001,Carolyn Fern,2021,12,1
+34485,Carolyn Cares For Animals,2021-12-01 11:22:40,5001,Carolyn Fern,2021,12,1
+34486,The Smoky Velvet - Antarctic Blues LP,2021-12-01 16:48:52,99001,Marie Lambeau,2021,12,1
+34487,Mark will carry,2021-12-01 18:13:11,3001,Mark Harrigan,2021,12,1
+34488,Agnes Baker - no broken tools (camp circle undone),2021-12-01 19:07:08,1004,Agnes Baker,2021,12,1
+34489,¿Por qué te golpeas? / Why do you hit yourself?,2021-12-01 19:32:43,8001,Daniela Reyes,2021,12,1
+34490,Rita Young and Fabulous,2021-12-01 21:16:05,5005,Rita Young,2021,12,1
+34491,The Jim Culver Mysteries (clone),2021-12-01 22:06:44,2004,Jim Culver,2021,12,1
+34492,The Jim Culver Mysteries,2021-12-01 22:09:44,2004,Jim Culver,2021,12,1
+34493,The Jim Culver Mysteries,2021-12-01 22:09:44,2004,Jim Culver,2021,12,1
+34494,The Jim Culver Mysteries,2021-12-01 22:09:44,2004,Jim Culver,2021,12,1
+34495,The Jim Culver Mysteries,2021-12-01 22:09:44,2004,Jim Culver,2021,12,1
+34496,Zoey Samaras: The Stabbing Chef con Javi para museo,2021-12-01 22:17:17,2001,Zoey Samaras,2021,12,1
+34497,Zoey Samaras: The Stabbing Chef con Javi para museo,2021-12-01 22:17:17,2001,Zoey Samaras,2021,12,1
+34498,Zoey Samaras: The Stabbing Chef con Javi para museo,2021-12-01 22:17:17,2001,Zoey Samaras,2021,12,1
+34499,Tides of Sister Mary,2021-12-01 22:40:21,7001,Sister Mary,2021,12,1
+34500,Tides of Sister Mary,2021-12-01 22:40:21,7001,Sister Mary,2021,12,1
+34501,Tides of Sister Mary,2021-12-01 22:40:21,7001,Sister Mary,2021,12,1
+34502,Tides of Sister Mary,2021-12-01 22:40:21,7001,Sister Mary,2021,12,1
+34503,Tides of Sister Mary,2021-12-01 22:40:21,7001,Sister Mary,2021,12,1
+34504,Tides of Sister Mary,2021-12-01 22:40:21,7001,Sister Mary,2021,12,1
+34505,Tides of Sister Mary,2021-12-01 22:40:21,7001,Sister Mary,2021,12,1
+34506,Tides of Sister Mary,2021-12-01 22:40:21,7001,Sister Mary,2021,12,1
+34507,Tides of Sister Mary,2021-12-01 22:40:21,7001,Sister Mary,2021,12,1
+34508,Tides of Sister Mary,2021-12-01 22:40:21,7001,Sister Mary,2021,12,1
+34509,Tides of Sister Mary,2021-12-01 22:40:21,7001,Sister Mary,2021,12,1
+34510,Tides of Sister Mary,2021-12-01 22:40:21,7001,Sister Mary,2021,12,1
+34511,Tides of Father Mateo,2021-12-01 22:42:13,4004,Father Mateo,2021,12,1
+34512,Tides of Father Mateo,2021-12-01 22:42:13,4004,Father Mateo,2021,12,1
+34513,Tides of Father Mateo,2021-12-01 22:42:13,4004,Father Mateo,2021,12,1
+34514,Tides of Father Mateo,2021-12-01 22:42:13,4004,Father Mateo,2021,12,1
+34515,Tides of Father Mateo,2021-12-01 22:42:13,4004,Father Mateo,2021,12,1
+34516,Tides of Father Mateo,2021-12-01 22:42:13,4004,Father Mateo,2021,12,1
+34517,Tides of Father Mateo,2021-12-01 22:42:13,4004,Father Mateo,2021,12,1
+34518,Tides of Father Mateo,2021-12-01 22:42:13,4004,Father Mateo,2021,12,1
+34519,Tides of Father Mateo,2021-12-01 22:42:13,4004,Father Mateo,2021,12,1
+34520,Tides of Father Mateo,2021-12-01 22:42:13,4004,Father Mateo,2021,12,1
+34521,Tides of Father Mateo,2021-12-01 22:42:13,4004,Father Mateo,2021,12,1
+34522,Tides of Father Mateo,2021-12-01 22:42:13,4004,Father Mateo,2021,12,1
+34523,Wendy Adams on the Road,2021-12-02 03:04:49,1005,Wendy Adams,2021,12,2
+34525,please carry my books (taboo),2021-12-02 14:29:33,1002,Daisy Walker,2021,12,2
+34526,BobJenkins Bob Ross,2021-12-02 16:01:44,8016,Bob Jenkins,2021,12,2
+34527,Minh Thi Phan Investigates Path to Carcosa,2021-12-02 18:19:24,3002,Minh Thi Phan,2021,12,2
+34528,Lily chen amiga de Thor,2021-12-02 18:36:24,8010,Lily Chen,2021,12,2
+34529,Monterrey jack vs brujas ,2021-12-02 18:45:29,8007,Monterey Jack,2021,12,2
+34530,Chenchanted Bling,2021-12-02 19:04:04,8010,Lily Chen,2021,12,2
+34531,Harvey Walters two handed Carcossa,2021-12-02 19:07:12,60201,Harvey Walters,2021,12,2
+34532,Nathaniel Cho two handed carcossa,2021-12-02 19:08:16,60101,Nathaniel Cho,2021,12,2
+34533,Rex Murphy Base+Dunwich,2021-12-03 00:51:22,2002,Rex Murphy,2021,12,3
+34534,Akachi Onyele Base+Dunwich,2021-12-03 00:51:51,3004,Akachi Onyele,2021,12,3
+34535,Minh Thi Phan: Executive Administrative Assistant,2021-12-03 02:35:52,3002,Minh Thi Phan,2021,12,3
+34536,Jim's Ambitions,2021-12-03 08:58:46,2004,Jim Culver,2021,12,3
+34537,Normal With Errs,2021-12-03 10:16:01,8004,Norman Withers,2021,12,3
+34538,Arnos The Agnes Baker Mysteries,2021-12-03 17:49:23,1004,Agnes Baker,2021,12,3
+34539,Arnos The Agnes Baker Mysteries,2021-12-03 17:55:58,1004,Agnes Baker,2021,12,3
+34540,Akachi Onyele Base+Dunwich,2021-12-03 18:00:02,3004,Akachi Onyele,2021,12,3
+34541,Shotgun Leo #CPA-PTC,2021-12-03 19:43:17,4001,Leo Anderson,2021,12,3
+34542,Leo Anderson #CPA-PTC,2021-12-03 19:43:17,4001,Leo Anderson,2021,12,3
+34543,Leo Anderson #CPA-PTC,2021-12-03 19:43:17,4001,Leo Anderson,2021,12,3
+34544,Leo Anderson #CPA-PTC,2021-12-03 19:43:17,4001,Leo Anderson,2021,12,3
+34545,Leo Anderson #CPA-PTC,2021-12-03 19:43:17,4001,Leo Anderson,2021,12,3
+34546,Leo Anderson #CPA-PTC,2021-12-03 19:43:17,4001,Leo Anderson,2021,12,3
+34547,Leo Anderson #CPA-PTC,2021-12-03 19:43:17,4001,Leo Anderson,2021,12,3
+34548,Leo Anderson #CPA-PTC,2021-12-03 19:43:17,4001,Leo Anderson,2021,12,3
+34549,Good Stuff Ursula #CPA-PTC,2021-12-03 19:43:18,4002,Ursula Downs,2021,12,3
+34550,Good Stuff Ursula #CPA-PTC,2021-12-03 19:43:18,4002,Ursula Downs,2021,12,3
+34551,Good Stuff Ursula #CPA-PTC,2021-12-03 19:43:18,4002,Ursula Downs,2021,12,3
+34552,Good Stuff Ursula #CPA-PTC,2021-12-03 19:43:18,4002,Ursula Downs,2021,12,3
+34553,Good Stuff Ursula #CPA-PTC,2021-12-03 19:43:18,4002,Ursula Downs,2021,12,3
+34554,Good Stuff Ursula #CPA-PTC,2021-12-03 19:43:18,4002,Ursula Downs,2021,12,3
+34555,Good Stuff Ursula #CPA-PTC,2021-12-03 19:43:18,4002,Ursula Downs,2021,12,3
+34556,Good Stuff Ursula #CPA-PTC,2021-12-03 19:43:18,4002,Ursula Downs,2021,12,3
+34557,Rex Money $Rex$,2021-12-04 01:01:14,2002,Rex Murphy,2021,12,4
+34558,Nobody Asked you Patrice!,2021-12-04 01:08:02,6005,Patrice Hathaway,2021,12,4
+34559,Perma Proxy,2021-12-04 04:22:07,3006,Lola Hayes,2021,12,4
+34560,Bad Blood Agnes Baker with multiple classes synergy,2021-12-04 07:48:21,1004,Agnes Baker,2021,12,4
+34561,Daniela Reyes Protects,2021-12-04 08:21:52,8001,Daniela Reyes,2021,12,4
+34562,SolO'Toole,2021-12-04 08:34:26,1003,"""Skids"" O'Toole",2021,12,4
+34567,"El plan de ""Malasombra"" O'Toole",2021-12-04 10:07:27,1003,"""Skids"" O'Toole",2021,12,4
+34568,ZoeyDaisy-Daisy(1 core 1 dunwich),2021-12-04 13:52:04,1002,Daisy Walker,2021,12,4
+34569,ZoeyDaisy-Zoey (1core 1dunwich),2021-12-04 14:09:21,2001,Zoey Samaras,2021,12,4
+34570,Sister Mary: The Nun,2021-12-04 18:47:06,7001,Sister Mary,2021,12,4
+34571,Lily Chen Arctic,2021-12-04 18:55:05,8010,Lily Chen,2021,12,4
+34572,Mark Harrigan: The Soldier,2021-12-04 19:07:44,3001,Mark Harrigan,2021,12,4
+34573,Ursula Downs in the Ice,2021-12-04 20:49:16,4002,Ursula Downs,2021,12,4
+34574,William Yorick on the Road,2021-12-04 22:01:24,3005,William Yorick,2021,12,4
+34575,Rex Murphy_Unlimited action,2021-12-05 02:06:05,2002,Rex Murphy,2021,12,5
+34576,Rex Murphy_Unlimited action,2021-12-05 02:06:05,2002,Rex Murphy,2021,12,5
+34577,Lily Chen Arctic,2021-12-05 04:55:00,8010,Lily Chen,2021,12,5
+34578,Agnes Baker vuelve al Blob 20210.1,2021-12-05 08:52:59,1004,Agnes Baker,2021,12,5
+34579,Agnes Baker vuelve al Blob 2021,2021-12-05 11:15:44,1004,Agnes Baker,2021,12,5
+34580,William Yorick on the Road,2021-12-05 11:30:33,3005,William Yorick,2021,12,5
+34581,Multicolour cards,2021-12-05 16:11:09,3006,Lola Hayes,2021,12,5
+34582,Mandy Thompson Investigates,2021-12-05 16:30:27,6002,Mandy Thompson,2021,12,5
+34583,Mandy Thompson Investigates,2021-12-05 18:39:41,6002,Mandy Thompson,2021,12,5
+34584,The Lily Chen Mysteries,2021-12-05 19:32:10,8010,Lily Chen,2021,12,5
+34585,"Bob Jenkins, Multi-level Marketer (Deck Guide)",2021-12-05 22:32:50,8016,Bob Jenkins,2021,12,5
+34586,WuxiUrsula (Antiquary Combat Ursula),2021-12-06 00:22:51,4002,Ursula Downs,2021,12,6
+34587,Roland banks By the Books,2021-12-06 07:08:35,1001,Roland Banks,2021,12,6
+34588,Tommy llamando a la agencia,2021-12-06 13:48:14,6001,Tommy Muldoon,2021,12,6
+34589,The Practiced Entertainer investigates,2021-12-06 14:34:02,99001,Marie Lambeau,2021,12,6
+34590,Monterey Jack spicy meltdown 2.0,2021-12-06 16:38:21,8007,Monterey Jack,2021,12,6
+34591,Diana goes to Vallekas,2021-12-06 17:07:43,5004,Diana Stanley,2021,12,6
+34594,The Agnes Baker serves Mysteries on Ice,2021-12-06 18:48:07,1004,Agnes Baker,2021,12,6
+34595,Teeny Wini,2021-12-06 20:36:17,60301,Winifred Habbamock,2021,12,6
+34596,Old Shotgun Mark (WOTOG),2021-12-06 20:58:10,3001,Mark Harrigan,2021,12,6
+34597,The Jenny Barnes Job,2021-12-06 21:24:51,2003,Jenny Barnes,2021,12,6
+34598,The Jenny Barnes Job,2021-12-06 21:24:51,2003,Jenny Barnes,2021,12,6
+34599,Norman Withers Investigates,2021-12-06 23:55:43,8004,Norman Withers,2021,12,6
+34600,Lily Chenners and the Big Booper: Another Hammer Deck,2021-12-07 00:33:12,8010,Lily Chen,2021,12,7
+34601,Jacqueline will try to be fine at the edge of the earth,2021-12-07 00:37:57,60401,Jacqueline Fine,2021,12,7
+34602,"Sledding Synergy Lola, halfway through Carcosa.",2021-12-07 13:55:53,3006,Lola Hayes,2021,12,7
+34603,"Flexible Bob, midway through Carcosa.",2021-12-07 13:56:26,8016,Bob Jenkins,2021,12,7
+34604,The Practiced Entertainer investigates,2021-12-07 14:07:15,99001,Marie Lambeau,2021,12,7
+34605,Knowledge Overwhelming(Solo Deck),2021-12-07 16:12:50,1002,Daisy Walker,2021,12,7
+34606,The Dexter Drake Mysteries,2021-12-07 17:12:42,7004,Dexter Drake,2021,12,7
+34607,"""Cash Me Outside"" Carolyn Fern",2021-12-07 17:12:48,5001,Carolyn Fern,2021,12,7
+34608,"""Buy Buy Buy"" Bob Jenkins",2021-12-07 20:19:36,8016,Bob Jenkins,2021,12,7
+34609,Norman Withers Recherches stellaires (need help!),2021-12-07 23:20:40,8004,Norman Withers,2021,12,7
+34610,The Diamond Agency Boss,2021-12-08 01:20:17,5002,Joe Diamond,2021,12,8
+34611,The Diamond Agency Boss,2021-12-08 01:20:17,5002,Joe Diamond,2021,12,8
+34612,The Diamond Agency Boss,2021-12-08 01:20:17,5002,Joe Diamond,2021,12,8
+34613,The Diamond Agency Secretary,2021-12-08 01:22:19,3002,Minh Thi Phan,2021,12,8
+34614,The Diamond Agency Secretary,2021-12-08 01:22:19,3002,Minh Thi Phan,2021,12,8
+34615,The Diamond Agency Secretary,2021-12-08 01:22:19,3002,Minh Thi Phan,2021,12,8
+34616,Joe Diamond Passive Fighter ,2021-12-08 06:03:51,5002,Joe Diamond,2021,12,8
+34617,The Mighty Nun,2021-12-08 06:05:08,7001,Sister Mary,2021,12,8
+34618,Marie fighting and doing her doom thing,2021-12-08 06:13:07,99001,Marie Lambeau,2021,12,8
+34619,"""Ashcan"" Pete in Azione",2021-12-08 09:24:36,2005,"""Ashcan"" Pete",2021,12,8
+34620,Wendy Adams short supply,2021-12-08 10:31:19,1005,Wendy Adams,2021,12,8
+34621,Norman Withers look at the star (combo stellaire) ,2021-12-08 11:25:53,8004,Norman Withers,2021,12,8
+34622,Rex Murphy Investigates,2021-12-08 12:40:01,2002,Rex Murphy,2021,12,8
+34623,Carolyn Fern Psychopath !!! ,2021-12-08 14:34:34,5001,Carolyn Fern,2021,12,8
+34624,Rex Murphy (Edu) (clone),2021-12-08 16:22:23,2002,Rex Murphy,2021,12,8
+34625,The Diana Stanley Mysteries,2021-12-08 17:04:29,5004,Diana Stanley,2021,12,8
+34626,The Adventures of Mark Harrigan - Kubiac,2021-12-08 18:34:24,3001,Mark Harrigan,2021,12,8
+34627,Mandy Thompson Investigates,2021-12-08 20:38:42,6002,Mandy Thompson,2021,12,8
+34628,Too Talented To Work,2021-12-08 21:05:55,5003,Preston Fairmont,2021,12,8
+34629,"I'M BATMAN, BITCH",2021-12-08 21:16:35,5003,Preston Fairmont,2021,12,8
+34630,It's Called Method Acting,2021-12-08 21:39:36,3006,Lola Hayes,2021,12,8
+34631,Marie - Let's make them dance...!,2021-12-08 22:11:51,5006,Marie Lambeau,2021,12,8
+34632,Lola Hayes investigates Carcosa #CPA-TPC,2021-12-08 23:06:46,3006,Lola Hayes,2021,12,8
+34633,Lola Hayes investigates Carcosa #CPA-TPC,2021-12-08 23:06:46,3006,Lola Hayes,2021,12,8
+34634,Lola Hayes investigates Carcosa #CPA-TPC,2021-12-08 23:06:46,3006,Lola Hayes,2021,12,8
+34635,Lola Hayes investigates Carcosa #CPA-TPC,2021-12-08 23:06:46,3006,Lola Hayes,2021,12,8
+34636,Lola Hayes investigates Carcosa #CPA-TPC,2021-12-08 23:06:46,3006,Lola Hayes,2021,12,8
+34637,Lola Hayes investigates Carcosa #CPA-TPC,2021-12-08 23:06:46,3006,Lola Hayes,2021,12,8
+34638,Lola Hayes investigates Carcosa #CPA-TPC,2021-12-08 23:06:46,3006,Lola Hayes,2021,12,8
+34639,Lola Hayes investigates Carcosa #CPA-TPC,2021-12-08 23:06:46,3006,Lola Hayes,2021,12,8
+34640,Lola Hayes investigates Carcosa #CPA-TPC,2021-12-08 23:06:46,3006,Lola Hayes,2021,12,8
+34641,Lola Hayes investigates Carcosa #CPA-TPC,2021-12-08 23:06:46,3006,Lola Hayes,2021,12,8
+34642,Agnes Baker serves Mysteries on Ice (shrivelling edition),2021-12-08 23:06:48,1004,Agnes Baker,2021,12,8
+34643,Rich Kid Goes Exploring,2021-12-08 23:45:13,5003,Preston Fairmont,2021,12,8
+34644,Lola Hayes doing her best,2021-12-09 02:35:14,3006,Lola Hayes,2021,12,9
+34646,"Daisy Walker, La Notte della Zelota (0 EXP)",2021-12-09 10:57:34,1002,Daisy Walker,2021,12,9
+34647,Nathaniel Cho - The Prophetic Dreamer,2021-12-09 11:23:12,60101,Nathaniel Cho,2021,12,9
+34648,Junkyard Dog Daniela,2021-12-09 11:51:55,8001,Daniela Reyes,2021,12,9
+34649,Norman Withers Investigates,2021-12-09 12:08:47,8004,Norman Withers,2021,12,9
+34650,The Jacqueline Fine - Dunwich (Dic 21),2021-12-09 16:57:44,60401,Jacqueline Fine,2021,12,9
+34651,Amanda Sharpe's Gloved Friend,2021-12-09 17:25:37,7002,Amanda Sharpe,2021,12,9
+34652,William Yorick de viaje a cortar filetes!,2021-12-09 19:53:15,3005,William Yorick,2021,12,9
+34653,Theatre Zoey,2021-12-09 23:47:17,2001,Zoey Samaras,2021,12,9
+34654,Theatre Daisy,2021-12-10 00:00:51,1002,Daisy Walker,2021,12,10
+34655,The Norman of many talents! Solo variant,2021-12-10 01:16:36,8004,Norman Withers,2021,12,10
+34657,Ursula Downs Investigates,2021-12-10 09:27:22,4002,Ursula Downs,2021,12,10
+34658,Lola Hayes is the best investigator for Carsosa limited pool,2021-12-10 09:50:49,3006,Lola Hayes,2021,12,10
+34659,Lola Hayes is the best investigator for Carsosa limited pool,2021-12-10 09:50:49,3006,Lola Hayes,2021,12,10
+34660,Lola Hayes is the best investigator for Carsosa limited pool,2021-12-10 09:50:49,3006,Lola Hayes,2021,12,10
+34661,Lola Hayes is the best investigator for Carsosa limited pool,2021-12-10 09:50:49,3006,Lola Hayes,2021,12,10
+34662,Zoey also comes along to Carcosa!,2021-12-10 14:29:56,2001,Zoey Samaras,2021,12,10
+34663,Biking through the Mountains,2021-12-10 15:16:52,6001,Tommy Muldoon,2021,12,10
+34664,The Trish Scarborough Carcosa,2021-12-10 15:48:36,7003,Trish Scarborough,2021,12,10
+34665,Bob Jenkins e le monete d’oro maledette,2021-12-10 16:08:52,8016,Bob Jenkins,2021,12,10
+34666,Vita da cani con Leo Anderson,2021-12-10 16:09:19,4001,Leo Anderson,2021,12,10
+34667,Arnos The Agnes Baker Mysteries Version 2.3 ,2021-12-10 17:11:03,1004,Agnes Baker,2021,12,10
+34668,La Hermana Mary zampoñea en Innsmouth,2021-12-10 17:11:11,7001,Sister Mary,2021,12,10
+34669,Arnos The Agnes Baker Mysteries Version 3.2,2021-12-10 17:15:54,1004,Agnes Baker,2021,12,10
+34670,"Akachi Onyele, dragon pole build",2021-12-10 18:24:30,3004,Akachi Onyele,2021,12,10
+34671,"Akachi Onyele, dragon pole build",2021-12-10 18:24:30,3004,Akachi Onyele,2021,12,10
+34672,"Akachi Onyele, dragon pole build",2021-12-10 18:24:30,3004,Akachi Onyele,2021,12,10
+34673,"Akachi Onyele, dragon pole build",2021-12-10 18:24:30,3004,Akachi Onyele,2021,12,10
+34674,"Daisy Walker, La notte della zelota (5 EXP)",2021-12-10 21:05:23,1002,Daisy Walker,2021,12,10
+34675,"Daisy Walker, La notte della zelota (5 EXP)",2021-12-10 21:05:23,1002,Daisy Walker,2021,12,10
+34676,Jacqueline - Mystic spell proxy,2021-12-10 22:37:13,60401,Jacqueline Fine,2021,12,10
+34677,Perma Proxy,2021-12-10 22:39:53,3006,Lola Hayes,2021,12,10
+34678,Perma Proxy,2021-12-10 22:46:07,3006,Lola Hayes,2021,12,10
+34679,Perma Proxy,2021-12-11 00:15:09,3006,Lola Hayes,2021,12,11
+34680,(18 exp) Lily Arcanist True Solo,2021-12-11 05:08:58,8010,Lily Chen,2021,12,11
+34681,Agnes Baker: the shrivelling war machine,2021-12-11 11:40:58,1004,Agnes Baker,2021,12,11
+34682,Jacqueline Fine - CF Dunwich_new (cchfr),2021-12-11 12:10:09,60401,Jacqueline Fine,2021,12,11
+34683,Jacqueline Fine - CF Dunwich_new (cchfr),2021-12-11 12:10:09,60401,Jacqueline Fine,2021,12,11
+34684,Agnes Returns for Blood (REVISED),2021-12-11 13:53:25,1004,Agnes Baker,2021,12,11
+34686,Jack on the Edge,2021-12-11 19:54:04,8007,Monterey Jack,2021,12,11
+34687,Jack on the Edge,2021-12-11 19:56:14,8007,Monterey Jack,2021,12,11
+34690,William Yorick on the Road,2021-12-12 10:53:27,3005,William Yorick,2021,12,12
+34691,Keen Eye Jenny (true solo),2021-12-12 10:56:52,2003,Jenny Barnes,2021,12,12
+34692,DraconicShaman,2021-12-12 11:38:45,60401,Jacqueline Fine,2021,12,12
+34693,Wendy,2021-12-12 14:04:04,1005,Wendy Adams,2021,12,12
+34694,Puppy Whirligig ,2021-12-12 14:35:33,8010,Lily Chen,2021,12,12
+34696,Trish and Silas - Innsmouth (clone),2021-12-12 17:45:23,7003,Trish Scarborough,2021,12,12
+34697,"William ""Noe"" Yorick ",2021-12-12 19:59:46,3005,William Yorick,2021,12,12
+34698,"William ""Noe"" Yorick ",2021-12-12 19:59:46,3005,William Yorick,2021,12,12
+34699,"William ""Noe"" Yorick ",2021-12-12 19:59:46,3005,William Yorick,2021,12,12
+34700,mikis,2021-12-12 20:02:46,1001,Roland Banks,2021,12,12
+34701,Kodo-de-taisen!,2021-12-12 20:07:58,60101,Nathaniel Cho,2021,12,12
+34702,Tony  Morgan Buscando,2021-12-12 20:08:13,6003,Tony Morgan,2021,12,12
+34703,Tony  Morgan Buscando,2021-12-12 20:08:13,6003,Tony Morgan,2021,12,12
+34704,Tony  Morgan Buscando,2021-12-12 20:08:13,6003,Tony Morgan,2021,12,12
+34705,Omote Renge,2021-12-12 20:10:03,60101,Nathaniel Cho,2021,12,12
+34706,'Tis common; all that lives must die (William Yorick EotE),2021-12-12 22:20:04,3005,William Yorick,2021,12,12
+34707,Lily Chen for live playthrough 12/4,2021-12-13 00:55:38,8010,Lily Chen,2021,12,13
+34708,WHO LET THE DOGS OUT?,2021-12-13 01:58:58,4001,Leo Anderson,2021,12,13
+34709,Solo Expert Preston Returns to the Dunwich Legacy,2021-12-13 06:27:30,5003,Preston Fairmont,2021,12,13
+34710,Solo Expert Preston Returns to the Dunwich Legacy,2021-12-13 06:27:30,5003,Preston Fairmont,2021,12,13
+34711,Solo Expert Preston Returns to the Dunwich Legacy,2021-12-13 06:27:30,5003,Preston Fairmont,2021,12,13
+34712,Solo Expert Preston Returns to the Dunwich Legacy,2021-12-13 06:27:30,5003,Preston Fairmont,2021,12,13
+34713,Solo Expert Preston Returns to the Dunwich Legacy,2021-12-13 06:27:30,5003,Preston Fairmont,2021,12,13
+34714,Solo Expert Preston Returns to the Dunwich Legacy,2021-12-13 06:27:30,5003,Preston Fairmont,2021,12,13
+34715,Solo Expert Preston Returns to the Dunwich Legacy,2021-12-13 06:27:30,5003,Preston Fairmont,2021,12,13
+34716,Solo Expert Preston Returns to the Dunwich Legacy,2021-12-13 06:27:30,5003,Preston Fairmont,2021,12,13
+34717,Solo Expert Preston Returns to the Dunwich Legacy,2021-12-13 06:27:30,5003,Preston Fairmont,2021,12,13
+34718,Roland Banks in Return to TCU (Hard) (Deck Guide),2021-12-13 09:51:28,1001,Roland Banks,2021,12,13
+34719,Jacqueline Fine in Return to TCU (Hard) (Campaign Guide),2021-12-13 09:51:44,60401,Jacqueline Fine,2021,12,13
+34721,"Flexible Bob, after Carcosa (35XP)",2021-12-13 11:17:48,8016,Bob Jenkins,2021,12,13
+34722,"Sledding Synergy Lola, after Carcosa (53XP, but really 36XP)",2021-12-13 11:18:17,3006,Lola Hayes,2021,12,13
+34723,Alkisachi Only Mysterier,2021-12-13 11:21:14,3004,Akachi Onyele,2021,12,13
+34724,Silas fight,2021-12-13 11:30:43,7005,Silas Marsh,2021,12,13
+34725,Monterey gets hot in the cold,2021-12-13 14:03:31,8007,Monterey Jack,2021,12,13
+34726,Ursula Downs and old man Leo in TFA,2021-12-13 19:39:26,4002,Ursula Downs,2021,12,13
+34727,Ursula Downs and University Investigates Edge of the Earth,2021-12-13 21:40:24,4002,Ursula Downs,2021,12,13
+34728,mikis matar,2021-12-13 22:02:42,2001,Zoey Samaras,2021,12,13
+34729,Daniela Reyes Starter Deck (Core EotE),2021-12-13 22:21:10,8001,Daniela Reyes,2021,12,13
+34730,Silas Marsh - Innsmouth,2021-12-13 23:29:07,7005,Silas Marsh,2021,12,13
+34731,Wanna know a secret about Norman?,2021-12-13 23:31:08,8004,Norman Withers,2021,12,13
+34732,Agnes Baker serves Mysteries on Ice (shrivelling edition),2021-12-13 23:34:22,1004,Agnes Baker,2021,12,13
+34733,Agnes Baker serves Mysteries on Ice (shrivelling edition),2021-12-13 23:34:22,1004,Agnes Baker,2021,12,13
+34734,Norman Withers Starter Deck (Core EotE),2021-12-13 23:44:52,8004,Norman Withers,2021,12,13
+34735,Bob Jenkins Starter Deck (Core EotE),2021-12-13 23:47:56,8016,Bob Jenkins,2021,12,13
+34736,Lily Chen Starter Deck (Core EotE),2021-12-13 23:52:26,8010,Lily Chen,2021,12,13
+34738,Trish - Innsmouth,2021-12-14 00:02:06,7003,Trish Scarborough,2021,12,14
+34739,Monterey Jack Starter Deck (Core EotE),2021-12-14 00:17:32,8007,Monterey Jack,2021,12,14
+34740,My .38 is Pretty Special (parallel),2021-12-14 01:09:02,1001,Roland Banks,2021,12,14
+34741,My .38 is Pretty Special (0 XP with upgrade guide),2021-12-14 01:09:12,1001,Roland Banks,2021,12,14
+34745,Sister Mary Support,2021-12-14 17:06:33,7001,Sister Mary,2021,12,14
+34746,[Guide] Leo let the dogs out.,2021-12-14 18:07:56,4001,Leo Anderson,2021,12,14
+34747,Norman Withers Investigates,2021-12-14 18:38:49,8004,Norman Withers,2021,12,14
+34748,"Agnes Baker: ""No sin mis luckys!""",2021-12-14 19:16:21,1004,Agnes Baker,2021,12,14
+34749,Agnes Baker,2021-12-14 19:20:44,1004,Agnes Baker,2021,12,14
+34750,Sefina in Vilnius,2021-12-14 20:46:25,3003,Sefina Rousseau,2021,12,14
+34751,Tindalos Gaming - Edge of the Earth Campaign - Daniela Reyes,2021-12-14 20:52:43,8001,Daniela Reyes,2021,12,14
+34752,Agnes Baker La noche de la fanática II,2021-12-15 00:12:02,1004,Agnes Baker,2021,12,15
+34753,Agnes Baker La noche de la fanática I,2021-12-15 00:12:58,1004,Agnes Baker,2021,12,15
+34754,Nathaniel La noche de la fanática I,2021-12-15 00:14:51,60101,Nathaniel Cho,2021,12,15
+34755,Monterey the Fighter,2021-12-15 02:08:21,8007,Monterey Jack,2021,12,15
+34756,Norman Goes from Astronomer to Astrologer,2021-12-15 03:00:41,8004,Norman Withers,2021,12,15
+34757,Quicksilver Rhapsody,2021-12-15 05:40:25,2004,Jim Culver,2021,12,15
+34758,Jenny Barnes: By Any Means Necessary,2021-12-15 06:08:16,2003,Jenny Barnes,2021,12,15
+34759,path to carcosa character cards,2021-12-15 10:54:19,3004,Akachi Onyele,2021,12,15
+34760,Trish Scarborough Shall Not Commit Cards,2021-12-15 16:05:23,7003,Trish Scarborough,2021,12,15
+34761,Monterey Jack - Edge of the Earth,2021-12-15 17:08:17,8007,Monterey Jack,2021,12,15
+34762,Finn Edwards and Ursula in TFA,2021-12-15 17:37:19,4003,Finn Edwards,2021,12,15
+34763,Roland Banks: The Guy With Almost 0 Mental Fortitude,2021-12-15 18:06:32,1001,Roland Banks,2021,12,15
+34764,Tindalos Gaming - Edge of the Earth Campaign - Monterey Jack,2021-12-15 19:07:34,8007,Monterey Jack,2021,12,15
+34765,GG for CPA,2021-12-15 19:11:44,98019,Gloria Goldberg,2021,12,15
+34766,sweet Carolyn!,2021-12-15 19:30:00,5001,Carolyn Fern,2021,12,15
+34767,Winifred - Carcosa,2021-12-15 20:44:40,60301,Winifred Habbamock,2021,12,15
+34768,Agnes Baker serves Mysteries on Ice (shrivelling deck balanc,2021-12-15 22:16:59,1004,Agnes Baker,2021,12,15
+34769,Agnes Baker serves Mysteries on Ice (shrivelling deck balanc,2021-12-15 22:16:59,1004,Agnes Baker,2021,12,15
+34772,Carolyn Fern Sinergias investiga y te cura  - Archivos Arkha,2021-12-15 23:30:16,5001,Carolyn Fern,2021,12,15
+34773,Carolyn Fern Sinergias investiga y te cura  - Archivos Arkha,2021-12-15 23:30:16,5001,Carolyn Fern,2021,12,15
+34774,These Boots are made for Walking,2021-12-16 00:15:20,4002,Ursula Downs,2021,12,16
+34775,Ultimate Support Calvin [Edge of the Earth],2021-12-16 00:16:31,4005,Calvin Wright,2021,12,16
+34776,Daisy Walker - Lord of the Tomes,2021-12-16 00:49:43,1002,Daisy Walker,2021,12,16
+34777,"Mary, Mary, Why you Buggin?",2021-12-16 06:18:27,7001,Sister Mary,2021,12,16
+34778,Daisy takes book,2021-12-16 11:21:26,1002,Daisy Walker,2021,12,16
+34779,Daisy takes book,2021-12-16 11:21:26,1002,Daisy Walker,2021,12,16
+34780,Daisy takes book,2021-12-16 11:21:26,1002,Daisy Walker,2021,12,16
+34781,Daisy takes book,2021-12-16 11:21:26,1002,Daisy Walker,2021,12,16
+34782,Daisy takes book,2021-12-16 11:21:26,1002,Daisy Walker,2021,12,16
+34783,Daisey Walker - Irene,2021-12-16 21:02:42,1002,Daisy Walker,2021,12,16
+34784,Bobby J. Gets Reassigned,2021-12-17 00:10:08,8016,Bob Jenkins,2021,12,17
+34785,A Fistful of Dollars,2021-12-17 01:00:41,1001,Roland Banks,2021,12,17
+34786,"Harvey Walters - Secrets, Secrets Are No Fun",2021-12-17 01:14:24,60201,Harvey Walters,2021,12,17
+34787,Highlander Drake Goes Solo,2021-12-17 01:15:50,7004,Dexter Drake,2021,12,17
+34788,Tricksy Trish (modified),2021-12-17 03:05:38,7003,Trish Scarborough,2021,12,17
+34789,Skids O'Toole: Exceptionally Wealthy [Guide],2021-12-17 09:12:26,1003,"""Skids"" O'Toole",2021,12,17
+34790,"Roland ""McNoir"" Banks",2021-12-17 09:49:02,1001,Roland Banks,2021,12,17
+34791,Norman Wither without you,2021-12-17 14:44:04,8004,Norman Withers,2021,12,17
+34792,Norman Wither without you,2021-12-17 14:44:04,8004,Norman Withers,2021,12,17
+34793,Norman Wither without you,2021-12-17 14:44:04,8004,Norman Withers,2021,12,17
+34794,Norman Wither without you,2021-12-17 14:44:04,8004,Norman Withers,2021,12,17
+34795,Norman Wither without you,2021-12-17 14:44:22,8004,Norman Withers,2021,12,17
+34796,Norman Wither without you,2021-12-17 14:44:22,8004,Norman Withers,2021,12,17
+34797,Norman Wither without you,2021-12-17 14:44:22,8004,Norman Withers,2021,12,17
+34798,Norman Wither without you,2021-12-17 14:44:22,8004,Norman Withers,2021,12,17
+34800,Sister Mary Support,2021-12-17 16:06:21,7001,Sister Mary,2021,12,17
+34801,Jim Culver with Yorick,2021-12-17 18:15:42,2004,Jim Culver,2021,12,17
+34803,Bob Jenkins on his way to money,2021-12-17 21:12:08,8016,Bob Jenkins,2021,12,17
+34804,"The Scooby Duke Holiday Special (Ft. ""Hanashcan"" Barbara)",2021-12-17 22:10:17,2005,"""Ashcan"" Pete",2021,12,17
+34805,Roland Banks - Fighting for clues.,2021-12-17 22:44:35,1001,Roland Banks,2021,12,17
+34806,Daisy Walker Investigates,2021-12-17 23:16:10,1002,Daisy Walker,2021,12,17
+34807,William Yorick plays a lot of Items,2021-12-17 23:17:20,3005,William Yorick,2021,12,17
+34808,Daisy Walker Reads a Book,2021-12-17 23:29:57,1002,Daisy Walker,2021,12,17
+34809,Leo Andersons abusive internship program,2021-12-17 23:40:10,4001,Leo Anderson,2021,12,17
+34810,Daisy Walker: The Gal Who Can't Take A Punch,2021-12-18 02:16:26,1002,Daisy Walker,2021,12,18
+34811,"""Skids"" O' Toole: The Guy Who's In It To Win It",2021-12-18 02:45:17,1003,"""Skids"" O'Toole",2021,12,18
+34812,Agnes Baker: The Unassuming Waitress,2021-12-18 03:08:32,1004,Agnes Baker,2021,12,18
+34813,Wendy Adams: The Girl Who Will Run Away From Her Problems,2021-12-18 03:32:00,1005,Wendy Adams,2021,12,18
+34815,"Daniela Reyes, ready for Innsmouth (0XP)",2021-12-18 09:19:45,8001,Daniela Reyes,2021,12,18
+34816,"Norman Withers, ready for Innsmouth (0XP)",2021-12-18 09:20:27,8004,Norman Withers,2021,12,18
+34817,"Daniela Reyes, ready for Innsmouth (0XP)",2021-12-18 09:44:09,8001,Daniela Reyes,2021,12,18
+34818,Invincible Akachi (Recycling Grotesque Statue) (juno),2021-12-18 13:32:51,3004,Akachi Onyele,2021,12,18
+34819,Teeny Wini,2021-12-18 16:40:15,60301,Winifred Habbamock,2021,12,18
+34820,William Yorick and his stuff,2021-12-18 18:17:42,3005,William Yorick,2021,12,18
+34821,"Moded from: Dewey Deci-Spell System - ""Quick Rig"" Hard Mode ",2021-12-18 18:43:15,1002,Daisy Walker,2021,12,18
+34822,Testless-cluever Murder-hobo (EotE Complete),2021-12-19 02:33:14,3005,William Yorick,2021,12,19
+34823,Roland Banks z 1 podstawki,2021-12-19 11:41:41,1001,Roland Banks,2021,12,19
+34824,Ślizg O'Toole z 1 podstawki,2021-12-19 11:42:07,1003,"""Skids"" O'Toole",2021,12,19
+34825,Daisy Walker z 1 podstawki,2021-12-19 11:42:31,1002,Daisy Walker,2021,12,19
+34826,Agnes Baker z 1 podstawki,2021-12-19 11:42:58,1004,Agnes Baker,2021,12,19
+34827,Wendy Adams z 1 podstawki,2021-12-19 11:43:18,1005,Wendy Adams,2021,12,19
+34828,The Winifred and silas edge of the earth campaign ( victory ,2021-12-19 12:10:00,60301,Winifred Habbamock,2021,12,19
+34829,The Winifred and silas edge of the earth campaign ( victory ,2021-12-19 12:10:00,60301,Winifred Habbamock,2021,12,19
+34830,The Winifred and silas edge of the earth campaign ( victory ,2021-12-19 12:10:00,60301,Winifred Habbamock,2021,12,19
+34831,The Winifred and silas edge of the earth campaign ( victory ,2021-12-19 12:10:00,60301,Winifred Habbamock,2021,12,19
+34832,The Winifred and silas edge of the earth campaign ( victory ,2021-12-19 12:10:00,60301,Winifred Habbamock,2021,12,19
+34833,The Winifred and silas edge of the earth campaign ( victory ,2021-12-19 12:10:00,60301,Winifred Habbamock,2021,12,19
+34834,The Winifred and silas edge of the earth campaign ( victory ,2021-12-19 12:10:00,60301,Winifred Habbamock,2021,12,19
+34835,Silas Marsh and Winifred Edge of the earth victory,2021-12-19 12:19:48,7005,Silas Marsh,2021,12,19
+34836,Silas Marsh and Winifred Edge of the earth victory,2021-12-19 12:19:48,7005,Silas Marsh,2021,12,19
+34837,Silas Marsh and Winifred Edge of the earth victory,2021-12-19 12:19:48,7005,Silas Marsh,2021,12,19
+34838,Silas Marsh and Winifred Edge of the earth victory,2021-12-19 12:19:48,7005,Silas Marsh,2021,12,19
+34839,Silas Marsh and Winifred Edge of the earth victory,2021-12-19 12:19:48,7005,Silas Marsh,2021,12,19
+34840,Silas Marsh and Winifred Edge of the earth victory,2021-12-19 12:19:48,7005,Silas Marsh,2021,12,19
+34841,Silas Marsh and Winifred Edge of the earth victory,2021-12-19 12:19:48,7005,Silas Marsh,2021,12,19
+34842,Lily Chen - 2 Players - Solid,2021-12-19 14:28:34,8010,Lily Chen,2021,12,19
+34843,Lily Chen - 2 Players - Solid,2021-12-19 14:28:34,8010,Lily Chen,2021,12,19
+34844,Lily Chen - 2 Players - Solid,2021-12-19 14:28:34,8010,Lily Chen,2021,12,19
+34845,Rex Murphy (Edu),2021-12-19 15:11:08,2002,Rex Murphy,2021,12,19
+34846,Rex Murphy (Edu),2021-12-19 15:11:08,2002,Rex Murphy,2021,12,19
+34847,Happy Little Accidents,2021-12-19 15:57:17,3003,Sefina Rousseau,2021,12,19
+34848,(placeholder),2021-12-19 16:00:28,6004,Luke Robinson,2021,12,19
+34849,The Jenny Barnes All Rounder,2021-12-19 17:54:37,2003,Jenny Barnes,2021,12,19
+34850,Norman Withers Atlas y proteccion contra mazo encuentros (19,2021-12-19 19:05:39,8004,Norman Withers,2021,12,19
+34851,Norman Withers Atlas y proteccion contra mazo encuentros (19,2021-12-19 19:05:39,8004,Norman Withers,2021,12,19
+34852,Harvey Walters Investigates Inc-Com.,2021-12-20 12:14:32,60201,Harvey Walters,2021,12,20
+34853,The Lily Chen Devora,2021-12-20 13:37:00,8010,Lily Chen,2021,12,20
+34854,"Daniela Damage Bender, Doom Remover|Deck Guide",2021-12-20 16:03:17,8001,Daniela Reyes,2021,12,20
+34855,Rex Murphy - Detective Rex all'azione,2021-12-20 18:41:01,2002,Rex Murphy,2021,12,20
+34857,Patrice Hathaway on the Road,2021-12-20 21:37:37,6005,Patrice Hathaway,2021,12,20
+34858,The Adventures of Mark Harrigan,2021-12-20 21:38:06,3001,Mark Harrigan,2021,12,20
+34859,Agnes Baker serves Mysteries on Ice (shrivelling deck balanc,2021-12-20 22:44:18,1004,Agnes Baker,2021,12,20
+34860,Agnes Baker serves Mysteries on Ice (shrivelling deck balanc,2021-12-20 22:44:18,1004,Agnes Baker,2021,12,20
+34861,Agnes Baker serves Mysteries on Ice (shrivelling deck balanc,2021-12-20 22:44:18,1004,Agnes Baker,2021,12,20
+34862,The Jenny Barnes Job,2021-12-20 23:56:09,2003,Jenny Barnes,2021,12,20
+34863,The Adventures of Daniela Reyes,2021-12-21 01:47:13,8001,Daniela Reyes,2021,12,21
+34864,The Adventures of Carolyn Fern,2021-12-21 01:47:30,5001,Carolyn Fern,2021,12,21
+34865,Guardian Tutorial Deck,2021-12-21 02:15:57,1001,Roland Banks,2021,12,21
+34866,Rogue Tutorial Deck,2021-12-21 02:16:11,1003,"""Skids"" O'Toole",2021,12,21
+34867,Seeker Tutorial Deck,2021-12-21 02:16:22,3002,Minh Thi Phan,2021,12,21
+34868,Survivor Tutorial Deck,2021-12-21 02:16:59,1005,Wendy Adams,2021,12,21
+34869,Master of the Three Great Dōjutsu,2021-12-21 07:14:06,98019,Gloria Goldberg,2021,12,21
+34870,Omote Renge,2021-12-21 07:17:03,60101,Nathaniel Cho,2021,12,21
+34871,The Birth of Crit Theory: Dialectic of Spirit,2021-12-21 07:25:06,7002,Amanda Sharpe,2021,12,21
+34872,Only the penniless man will pass,2021-12-21 07:25:47,6003,Tony Morgan,2021,12,21
+34873,Norman Breaking Game solo,2021-12-21 08:00:35,8004,Norman Withers,2021,12,21
+34874,"Norman Breaking Game solo (after testing, fixed)",2021-12-21 09:12:35,8004,Norman Withers,2021,12,21
+34875,Norman Withers Protective Build,2021-12-21 10:50:38,8004,Norman Withers,2021,12,21
+34876,убегай копай бей,2021-12-21 12:57:10,1005,Wendy Adams,2021,12,21
+34878,"Skids O’Tool - Teacher Deck, Full Collection",2021-12-21 13:41:38,1003,"""Skids"" O'Toole",2021,12,21
+34879,"Leo Anderson - Teacher Deck, Full Collection",2021-12-21 13:50:54,4001,Leo Anderson,2021,12,21
+34881,"Agnes Baker - Teacher Deck, Full Collection",2021-12-21 13:58:36,1004,Agnes Baker,2021,12,21
+34882,"Mark Harrigan - Teacher Deck, Full collection",2021-12-21 14:00:55,3001,Mark Harrigan,2021,12,21
+34883,"""Ashcan” Pete - Teacher Deck, Full Collection",2021-12-21 14:02:16,2005,"""Ashcan"" Pete",2021,12,21
+34884,Monetary Jack: frozen cheese (EotE Iron Man,2021-12-21 14:35:52,8007,Monterey Jack,2021,12,21
+34885,Monetary Jack: frozen cheese (EotE Iron Man,2021-12-21 14:35:52,8007,Monterey Jack,2021,12,21
+34886,Monetary Jack: frozen cheese (EotE Iron Man,2021-12-21 14:35:52,8007,Monterey Jack,2021,12,21
+34887,Monetary Jack: frozen cheese (EotE Iron Man,2021-12-21 14:35:52,8007,Monterey Jack,2021,12,21
+34888,Monetary Jack: frozen cheese (EotE Iron Man,2021-12-21 14:35:52,8007,Monterey Jack,2021,12,21
+34889,Monetary Jack: frozen cheese (EotE Iron Man,2021-12-21 14:35:52,8007,Monterey Jack,2021,12,21
+34890,"Dr Amy Kensler, When Last We Met I Was But The Learner, Now ",2021-12-21 15:24:36,7002,Amanda Sharpe,2021,12,21
+34891,Rex Murphy - 11exp,2021-12-21 15:36:43,2002,Rex Murphy,2021,12,21
+34892,Norman Withers - The Astro atlas guide - part 1. ,2021-12-21 17:43:12,8004,Norman Withers,2021,12,21
+34893,Norman Withers - The Astro atlas guide - part 1. ,2021-12-21 17:43:12,8004,Norman Withers,2021,12,21
+34894,Norman Withers - The Astro atlas guide - part 1. ,2021-12-21 17:43:42,8004,Norman Withers,2021,12,21
+34895,Norman Withers - The Astro atlas guide - part 1. ,2021-12-21 17:43:42,8004,Norman Withers,2021,12,21
+34896,The Lily Chen: Transcends the Arctic,2021-12-21 18:32:18,8010,Lily Chen,2021,12,21
+34897,The Lily Chen: Transcends the Arctic,2021-12-21 18:32:18,8010,Lily Chen,2021,12,21
+34898,The Lily Chen: Transcends the Arctic,2021-12-21 18:32:18,8010,Lily Chen,2021,12,21
+34899,The Lily Chen: Transcends the Arctic,2021-12-21 18:32:18,8010,Lily Chen,2021,12,21
+34900,The Lily Chen: Transcends the Arctic,2021-12-21 18:32:18,8010,Lily Chen,2021,12,21
+34901,The Lily Chen: Transcends the Arctic,2021-12-21 18:32:18,8010,Lily Chen,2021,12,21
+34902,The Lily Chen: Transcends the Arctic,2021-12-21 18:32:18,8010,Lily Chen,2021,12,21
+34903,The Lily Chen: Transcends the Arctic (ending deck),2021-12-21 18:35:45,8010,Lily Chen,2021,12,21
+34904,The Lily Chen: Transcends the Arctic (ending deck),2021-12-21 18:35:45,8010,Lily Chen,2021,12,21
+34905,The Lily Chen: Transcends the Arctic (ending deck),2021-12-21 18:35:45,8010,Lily Chen,2021,12,21
+34906,The Lily Chen: Transcends the Arctic (ending deck),2021-12-21 18:35:45,8010,Lily Chen,2021,12,21
+34907,The Lily Chen: Transcends the Arctic (ending deck),2021-12-21 18:35:45,8010,Lily Chen,2021,12,21
+34908,The Lily Chen: Transcends the Arctic (ending deck),2021-12-21 18:35:45,8010,Lily Chen,2021,12,21
+34909,The Lily Chen: Transcends the Arctic (ending deck),2021-12-21 18:35:45,8010,Lily Chen,2021,12,21
+34911,Monterrey Jack - Macarrones con tomate (0xp),2021-12-21 18:47:46,8007,Monterey Jack,2021,12,21
+34912,Monterrey Jack - Macarrones con tomate (19xp),2021-12-21 18:48:05,8007,Monterey Jack,2021,12,21
+34913,Monterrey Jack - Macarrones con tomate (19xp),2021-12-21 18:48:05,8007,Monterey Jack,2021,12,21
+34914,The Jenny Barnes All Rounder,2021-12-21 22:57:59,2003,Jenny Barnes,2021,12,21
+34915,The Jenny Barnes All Rounder,2021-12-21 22:57:59,2003,Jenny Barnes,2021,12,21
+34916,The Jenny Barnes All Rounder,2021-12-21 22:57:59,2003,Jenny Barnes,2021,12,21
+34918,Norman Breaking Game solo BEST VERSION,2021-12-22 07:47:02,8004,Norman Withers,2021,12,22
+34919,Mateo Maximum Effort,2021-12-22 10:13:30,4004,Father Mateo,2021,12,22
+34920,Mateo Maximum Effort,2021-12-22 10:13:30,4004,Father Mateo,2021,12,22
+34921,Lily // 0XP,2021-12-22 18:52:43,8010,Lily Chen,2021,12,22
+34922,Amanda Sharpe first play of innsmouth ( 2 player ),2021-12-22 20:07:03,7002,Amanda Sharpe,2021,12,22
+34923,"Forced Learning Roland (5 XP, Taboo 2021-06-28)",2021-12-22 20:25:23,1001,Roland Banks,2021,12,22
+34924,Jack y Chen Detective Agency,2021-12-22 20:40:29,8007,Monterey Jack,2021,12,22
+34925,Jack y Chen Spanish Detective Agency,2021-12-22 20:41:57,8007,Monterey Jack,2021,12,22
+34926,Joe Diamond can do anything,2021-12-22 20:46:06,5002,Joe Diamond,2021,12,22
+34927,"Minh Thi Phan - Teacher Deck, Full Collection",2021-12-22 21:06:05,3002,Minh Thi Phan,2021,12,22
+34930,"Jenny Barnes - Teacher Deck, Full Collection",2021-12-22 21:13:42,2003,Jenny Barnes,2021,12,22
+34931,"Roland Banks - Teacher Deck, Full Collection",2021-12-22 21:16:10,1001,Roland Banks,2021,12,22
+34932,"Daisy walker - Teacher Deck, Full Collection",2021-12-22 21:18:47,1002,Daisy Walker,2021,12,22
+34933,Jack y Chen Spanish Detective Agency,2021-12-22 21:20:36,8010,Lily Chen,2021,12,22
+34935," Akachi Onyele - Teacher Deck, Full Collection",2021-12-22 21:23:01,3004,Akachi Onyele,2021,12,22
+34936,William Yorick - Nervous Wrecking Machine - versión tts,2021-12-23 12:00:04,3005,William Yorick,2021,12,23
+34937,Scarborough Unfair v2,2021-12-23 12:09:53,7003,Trish Scarborough,2021,12,23
+34938,Scarborough Unfair v2,2021-12-23 12:09:53,7003,Trish Scarborough,2021,12,23
+34939,Scarborough Unfair v2,2021-12-23 12:09:53,7003,Trish Scarborough,2021,12,23
+34940,Scarborough Unfair v2,2021-12-23 12:09:53,7003,Trish Scarborough,2021,12,23
+34941,Scarborough Unfair v2,2021-12-23 12:09:53,7003,Trish Scarborough,2021,12,23
+34942,Scarborough Unfair v2,2021-12-23 12:09:53,7003,Trish Scarborough,2021,12,23
+34943,Scarborough Unfair v2,2021-12-23 12:09:53,7003,Trish Scarborough,2021,12,23
+34944,Sister Christian Motor on v2,2021-12-23 12:10:34,7001,Sister Mary,2021,12,23
+34945,Sister Christian Motor on v2,2021-12-23 12:10:34,7001,Sister Mary,2021,12,23
+34946,Sister Christian Motor on v2,2021-12-23 12:10:34,7001,Sister Mary,2021,12,23
+34947,Sister Christian Motor on v2,2021-12-23 12:10:34,7001,Sister Mary,2021,12,23
+34948,Sister Christian Motor on v2,2021-12-23 12:10:34,7001,Sister Mary,2021,12,23
+34949,Sister Christian Motor on v2,2021-12-23 12:10:34,7001,Sister Mary,2021,12,23
+34950,Sister Christian Motor on v2,2021-12-23 12:10:34,7001,Sister Mary,2021,12,23
+34951,William Yorick - Nervous Wrecking Machine - versión TTS,2021-12-23 12:11:38,3005,William Yorick,2021,12,23
+34952,"Shotgun Tony, ready for Antarctica (0XP)",2021-12-23 15:02:39,6003,Tony Morgan,2021,12,23
+34953,"Icepick Patrice, ready for Antarctica (0XP)",2021-12-23 15:19:45,6005,Patrice Hathaway,2021,12,23
+34954,Norman Withers - Todo está en los libros,2021-12-23 15:48:13,8004,Norman Withers,2021,12,23
+34955,Concurso Los Archivos - Norman Withers,2021-12-23 15:48:13,8004,Norman Withers,2021,12,23
+34956,Oops! All Dogs,2021-12-23 17:51:14,2005,"""Ashcan"" Pete",2021,12,23
+34957,Daisy Falls Down the Rabbit Hole,2021-12-23 19:20:22,1002,Daisy Walker,2021,12,23
+34958,"Wendy Adams - Teacher Deck, Full Collection",2021-12-23 20:04:41,1005,Wendy Adams,2021,12,23
+34961,Ashcan's Home for Wayward Puppers,2021-12-24 01:23:45,2005,"""Ashcan"" Pete",2021,12,24
+34962,Joe Diamond Run and Searching ,2021-12-24 02:19:37,5002,Joe Diamond,2021,12,24
+34963,Mythos Busters CPA - Dec 2021 - Dani Carry Norma' (Daniela),2021-12-24 05:59:51,8001,Daniela Reyes,2021,12,24
+34964,Mythos Busters CPA - Dec 2021 - Dani Carry Norma' (Norman),2021-12-24 06:00:40,8004,Norman Withers,2021,12,24
+34965,Aux Confins de la Terre  - Monterey Jack,2021-12-24 09:16:41,8007,Monterey Jack,2021,12,24
+34966,Aux Confins de la Terre  - Monterey Jack,2021-12-24 09:16:41,8007,Monterey Jack,2021,12,24
+34968,"""Ashcan"" Pete  Dark Horse - Full Dunwich card pool",2021-12-24 14:55:20,2005,"""Ashcan"" Pete",2021,12,24
+34969,The Adventures of Zoey Samaras,2021-12-24 15:26:29,2001,Zoey Samaras,2021,12,24
+34970,The Agnes Baker Mysteries,2021-12-24 15:26:33,1004,Agnes Baker,2021,12,24
+34971,Rita A tier,2021-12-24 16:24:54,5005,Rita Young,2021,12,24
+34972,The cold of your bones,2021-12-24 16:38:35,8001,Daniela Reyes,2021,12,24
+34973,El gabinete de Agnes ,2021-12-25 19:29:20,1004,Agnes Baker,2021,12,25
+34974,Stella probando a ver si cuela,2021-12-25 19:33:58,60501,Stella Clark,2021,12,25
+34975,Monterey Jack roles Indiana Jones,2021-12-25 21:25:20,8007,Monterey Jack,2021,12,25
+34976,Monterey Jack roles Indiana Jones,2021-12-25 21:25:20,8007,Monterey Jack,2021,12,25
+34977,The Book of Norman,2021-12-26 03:46:32,8004,Norman Withers,2021,12,26
+34978,溫妮起始,2021-12-26 06:29:51,60301,Winifred Habbamock,2021,12,26
+34979,Patrice Hathaway on the Road,2021-12-26 12:46:43,6005,Patrice Hathaway,2021,12,26
+34980,Mãe Jacqueline Diná,2021-12-26 18:20:19,60401,Jacqueline Fine,2021,12,26
+34981,Daisy Walker Investigates,2021-12-26 18:35:56,1002,Daisy Walker,2021,12,26
+34982,Ashcan's Home for Wayward Puppers,2021-12-26 18:51:39,2005,"""Ashcan"" Pete",2021,12,26
+34983,Daisy Walker hace trekkingli-li con los sacos,2021-12-26 20:09:02,1002,Daisy Walker,2021,12,26
+34984,Daisy Walker hace trekkingli-li con los sacos,2021-12-26 20:09:02,1002,Daisy Walker,2021,12,26
+34985,Daisy Walker hace trekkingli-li con los sacos,2021-12-26 20:31:32,1002,Daisy Walker,2021,12,26
+34986,Daisy Walker hace trekkingli-li con los sacos,2021-12-26 20:31:32,1002,Daisy Walker,2021,12,26
+34987,Una niña y un martillo,2021-12-26 22:31:33,1005,Wendy Adams,2021,12,26
+34988,Una niña y un martillo,2021-12-26 22:31:33,1005,Wendy Adams,2021,12,26
+34989,Mandy barefoot and hungry. Solo,2021-12-26 22:45:42,6002,Mandy Thompson,2021,12,26
+34990,Matador de Umordoth,2021-12-26 23:53:30,1001,Roland Banks,2021,12,26
+34991,Wendy destruidora de cultos,2021-12-26 23:54:07,1005,Wendy Adams,2021,12,26
+34992,Los archivos de arkham Agnes Baker 19xp,2021-12-27 00:51:51,1004,Agnes Baker,2021,12,27
+34994,Wendy Adams - Bateadora de los bajos fondos,2021-12-27 04:09:02,1005,Wendy Adams,2021,12,27
+34995,Wendy Adams - Bateadora de los bajos fondos,2021-12-27 04:35:15,1005,Wendy Adams,2021,12,27
+34997,Daisy Walker hace trekkingli-li con los sacos,2021-12-27 10:26:05,1002,Daisy Walker,2021,12,27
+34998,Daisy Walker hace trekkingli-li con los sacos,2021-12-27 10:26:05,1002,Daisy Walker,2021,12,27
+34999,"Wendy Adams La buscadora (Core revisado, Dunwitch, Confines,",2021-12-27 10:46:29,1005,Wendy Adams,2021,12,27
+35000,"Wendy Adams La buscadora (Core revisado, Dunwitch, Confines,",2021-12-27 11:30:02,1005,Wendy Adams,2021,12,27
+35001,Monetary Jack: Asset Light Underworld Support,2021-12-27 14:20:42,8007,Monterey Jack,2021,12,27
+35002,Jack y Chen Detective Agency,2021-12-27 14:50:25,8007,Monterey Jack,2021,12,27
+35003,Wendy Adams - Bateadora de los bajos fondos,2021-12-27 15:15:56,1005,Wendy Adams,2021,12,27
+35004,Wendy Adams - Bateadora de los bajos fondos,2021-12-27 15:15:56,1005,Wendy Adams,2021,12,27
+35005, Zoey Samaras multijugador era,2021-12-27 16:08:22,2001,Zoey Samaras,2021,12,27
+35006,Sister Mary Fighting/Bodyguard Deck,2021-12-27 16:12:26,7001,Sister Mary,2021,12,27
+35007,Sister Mary Fighting/Bodyguard Deck,2021-12-27 16:12:26,7001,Sister Mary,2021,12,27
+35008,Sister Mary Fighting/Bodyguard Deck,2021-12-27 16:12:26,7001,Sister Mary,2021,12,27
+35009,Sister Mary Fighting/Bodyguard Deck,2021-12-27 16:12:26,7001,Sister Mary,2021,12,27
+35010,The Legendary 29 XP Lily build,2021-12-27 16:25:00,8010,Lily Chen,2021,12,27
+35011,The Legendary 29 XP Lily build,2021-12-27 16:29:05,8010,Lily Chen,2021,12,27
+35012,"Jack y Chen, Snow Detectives",2021-12-27 16:50:38,8007,Monterey Jack,2021,12,27
+35013,Monteshei Shack,2021-12-27 18:52:50,8007,Monterey Jack,2021,12,27
+35014,Zoey Samaras lit79 00,2021-12-27 19:16:16,2001,Zoey Samaras,2021,12,27
+35015,Leo Anderson - Big family (campain),2021-12-27 19:29:17,4001,Leo Anderson,2021,12,27
+35016,Leo Anderson lit79 00,2021-12-27 19:31:15,4001,Leo Anderson,2021,12,27
+35017,Ursula Downs lit79 00,2021-12-27 19:31:56,4002,Ursula Downs,2021,12,27
+35018,William Yorick lit79 00,2021-12-27 19:32:42,3005,William Yorick,2021,12,27
+35019,Sefina Rousseau lit79 00,2021-12-27 19:33:33,3003,Sefina Rousseau,2021,12,27
+35020,"Patrices' Musikstudium: ereignislos, pleite und paranoiod",2021-12-27 20:03:05,6005,Patrice Hathaway,2021,12,27
+35021,Monteshei Shack (clone),2021-12-27 20:10:53,8007,Monterey Jack,2021,12,27
+35022,The Luke Robinson Mysteries,2021-12-27 20:31:52,6004,Luke Robinson,2021,12,27
+35023,"Icepick Patrice, after surviving Antarctica (29XP)",2021-12-27 22:35:04,6005,Patrice Hathaway,2021,12,27
+35024,"Tony Morgan, after surviving Antarctica (29XP)",2021-12-27 22:35:29,6003,Tony Morgan,2021,12,27
+35026,"Seeker Preston, an infinite draw deck (Deck Guide)",2021-12-28 08:03:23,5003,Preston Fairmont,2021,12,28
+35027,"Fighting Winifred, ready for Antarctica (0XP)",2021-12-28 12:58:05,60301,Winifred Habbamock,2021,12,28
+35028,"Guided Farsight Mandy, ready for Antarctica (0XP)",2021-12-28 13:18:17,6002,Mandy Thompson,2021,12,28
+35029,Mandy (3P) - The Innsmouth Conspiracy,2021-12-28 17:01:37,6002,Mandy Thompson,2021,12,28
+35030,Mandy (3P) - The Innsmouth Conspiracy,2021-12-28 17:01:37,6002,Mandy Thompson,2021,12,28
+35031,Mandy (3P) - The Innsmouth Conspiracy,2021-12-28 17:01:37,6002,Mandy Thompson,2021,12,28
+35032,Mandy (3P) - The Innsmouth Conspiracy,2021-12-28 17:01:37,6002,Mandy Thompson,2021,12,28
+35033,Mandy (3P) - The Innsmouth Conspiracy,2021-12-28 17:01:37,6002,Mandy Thompson,2021,12,28
+35034,Mandy (3P) - The Innsmouth Conspiracy,2021-12-28 17:01:37,6002,Mandy Thompson,2021,12,28
+35035,Mandy (3P) - The Innsmouth Conspiracy,2021-12-28 17:01:37,6002,Mandy Thompson,2021,12,28
+35036,Mandy (3P) - The Innsmouth Conspiracy,2021-12-28 17:01:37,6002,Mandy Thompson,2021,12,28
+35037,Mandy (3P) - The Innsmouth Conspiracy,2021-12-28 17:01:37,6002,Mandy Thompson,2021,12,28
+35038,Mandy (3P) - The Innsmouth Conspiracy,2021-12-28 17:01:37,6002,Mandy Thompson,2021,12,28
+35039,Akachi  (3P) - The Innsmouth Conspiracy,2021-12-28 17:04:05,3004,Akachi Onyele,2021,12,28
+35040,Akachi  (3P) - The Innsmouth Conspiracy,2021-12-28 17:04:05,3004,Akachi Onyele,2021,12,28
+35041,Akachi  (3P) - The Innsmouth Conspiracy,2021-12-28 17:04:05,3004,Akachi Onyele,2021,12,28
+35042,Akachi  (3P) - The Innsmouth Conspiracy,2021-12-28 17:04:05,3004,Akachi Onyele,2021,12,28
+35043,Akachi  (3P) - The Innsmouth Conspiracy,2021-12-28 17:04:05,3004,Akachi Onyele,2021,12,28
+35044,Akachi  (3P) - The Innsmouth Conspiracy,2021-12-28 17:04:05,3004,Akachi Onyele,2021,12,28
+35045,Akachi  (3P) - The Innsmouth Conspiracy,2021-12-28 17:04:05,3004,Akachi Onyele,2021,12,28
+35046,Akachi  (3P) - The Innsmouth Conspiracy,2021-12-28 17:04:05,3004,Akachi Onyele,2021,12,28
+35047,Akachi  (3P) - The Innsmouth Conspiracy,2021-12-28 17:04:05,3004,Akachi Onyele,2021,12,28
+35048,Akachi  (3P) - The Innsmouth Conspiracy,2021-12-28 17:04:05,3004,Akachi Onyele,2021,12,28
+35049,Nathaniel (3P) - The Innsmouth Conspiracy,2021-12-28 17:06:12,60101,Nathaniel Cho,2021,12,28
+35050,Nathaniel (3P) - The Innsmouth Conspiracy,2021-12-28 17:06:12,60101,Nathaniel Cho,2021,12,28
+35051,Nathaniel (3P) - The Innsmouth Conspiracy,2021-12-28 17:06:12,60101,Nathaniel Cho,2021,12,28
+35052,Nathaniel (3P) - The Innsmouth Conspiracy,2021-12-28 17:06:12,60101,Nathaniel Cho,2021,12,28
+35053,Nathaniel (3P) - The Innsmouth Conspiracy,2021-12-28 17:06:12,60101,Nathaniel Cho,2021,12,28
+35054,Nathaniel (3P) - The Innsmouth Conspiracy,2021-12-28 17:06:12,60101,Nathaniel Cho,2021,12,28
+35055,Nathaniel (3P) - The Innsmouth Conspiracy,2021-12-28 17:06:12,60101,Nathaniel Cho,2021,12,28
+35056,Nathaniel (3P) - The Innsmouth Conspiracy,2021-12-28 17:06:12,60101,Nathaniel Cho,2021,12,28
+35057,Nathaniel (3P) - The Innsmouth Conspiracy,2021-12-28 17:06:12,60101,Nathaniel Cho,2021,12,28
+35058,Nathaniel (3P) - The Innsmouth Conspiracy,2021-12-28 17:06:12,60101,Nathaniel Cho,2021,12,28
+35059,"Ursula Downs, Clocking In",2021-12-28 20:28:04,4002,Ursula Downs,2021,12,28
+35060,Lann - Roland Banks Tutorial Inicial,2021-12-28 21:08:34,1001,Roland Banks,2021,12,28
+35061,Permettez-moi d’essuyer mes chaussures sur votre cadavre.,2021-12-29 09:01:35,4001,Leo Anderson,2021,12,29
+35062,Fifi les bons tuyaux,2021-12-29 09:02:20,4003,Finn Edwards,2021,12,29
+35063,Norman Withers - El futuro está escrito en las estrellas,2021-12-29 10:19:47,8004,Norman Withers,2021,12,29
+35064,Norman Withers - El futuro está escrito en las estrellas,2021-12-29 10:19:47,8004,Norman Withers,2021,12,29
+35065,Leo Anderson first deck,2021-12-29 15:18:31,4001,Leo Anderson,2021,12,29
+35066,Amanda Sharpe first play of innsmouth ( 2 player ),2021-12-29 20:06:24,7002,Amanda Sharpe,2021,12,29
+35067,Trish Scarborough verso Carcosa,2021-12-29 22:28:40,7003,Trish Scarborough,2021,12,29
+35068,Trish Scarborough verso Carcosa,2021-12-29 22:28:40,7003,Trish Scarborough,2021,12,29
+35069,Trish Scarborough verso Carcosa,2021-12-29 22:28:40,7003,Trish Scarborough,2021,12,29
+35070,Trish Scarborough verso Carcosa,2021-12-29 22:28:40,7003,Trish Scarborough,2021,12,29
+35071,Trish Scarborough verso Carcosa,2021-12-29 22:28:40,7003,Trish Scarborough,2021,12,29
+35072,Trish Scarborough verso Carcosa,2021-12-29 22:28:40,7003,Trish Scarborough,2021,12,29
+35073,Trish Scarborough verso Carcosa,2021-12-29 22:28:40,7003,Trish Scarborough,2021,12,29
+35074,Trish Scarborough verso Carcosa,2021-12-29 22:28:40,7003,Trish Scarborough,2021,12,29
+35075,Trish Scarborough verso Carcosa,2021-12-29 22:28:40,7003,Trish Scarborough,2021,12,29
+35076,Trish Scarborough verso Carcosa,2021-12-29 22:28:40,7003,Trish Scarborough,2021,12,29
+35077,Trish Scarborough verso Carcosa,2021-12-29 22:28:40,7003,Trish Scarborough,2021,12,29
+35078,Luke Scrywaker (proxy),2021-12-29 22:42:34,6004,Luke Robinson,2021,12,29
+35079,william yorick does the arctic ,2021-12-29 23:37:51,3005,William Yorick,2021,12,29
+35080,Base Preston deck,2021-12-30 00:46:28,5003,Preston Fairmont,2021,12,30
+35081,Nobody Asked you Patrice! (9exp),2021-12-30 02:10:29,6005,Patrice Hathaway,2021,12,30
+35082,Rex Money $Rex$ (9exp),2021-12-30 02:56:22,2002,Rex Murphy,2021,12,30
+35084,William Yorick on the Road,2021-12-30 03:30:05,3005,William Yorick,2021,12,30
+35085,Daniela Reyes Dish It Back,2021-12-30 05:31:06,8001,Daniela Reyes,2021,12,30
+35086,mandy the survivor,2021-12-30 09:48:32,6002,Mandy Thompson,2021,12,30
+35087,The Dojo of Lily Chen ,2021-12-30 10:41:07,8010,Lily Chen,2021,12,30
+35088,The Dojo of Lily Chen ,2021-12-30 10:41:07,8010,Lily Chen,2021,12,30
+35089,El Dojo del Dragón,2021-12-30 11:29:59,8010,Lily Chen,2021,12,30
+35090,El Dojo del Dragón,2021-12-30 11:29:59,8010,Lily Chen,2021,12,30
+35091,The Adventures of Zoey Samaras,2021-12-30 13:25:21,2001,Zoey Samaras,2021,12,30
+35092,Core Proxy trimmed,2021-12-30 14:59:40,3006,Lola Hayes,2021,12,30
+35093,Daniela Reyes hace Chop Suey con hijueputas,2021-12-30 18:22:43,8001,Daniela Reyes,2021,12,30
+35094,Daniela Reyes hace Chop Suey con hijueputas,2021-12-30 18:22:43,8001,Daniela Reyes,2021,12,30
+35095,"Djinndy Adams (Original, Parallel, and Combinations Guide)",2021-12-30 19:33:37,1005,Wendy Adams,2021,12,30
+35096,"Charles F. Muntz, Big Game Hunter",2021-12-30 19:59:17,4001,Leo Anderson,2021,12,30
+35097,mazzo base Roland Banks,2021-12-30 22:13:56,1001,Roland Banks,2021,12,30
+35098,Zoey Samaras (2 players) Dunwich II,2021-12-30 22:19:34,2001,Zoey Samaras,2021,12,30
+35099,Zoey Samaras (2 players) Dunwich II,2021-12-30 22:19:34,2001,Zoey Samaras,2021,12,30
+35100,Zoey Samaras (2 players) Dunwich II,2021-12-30 22:19:34,2001,Zoey Samaras,2021,12,30
+35101,Zoey Samaras (2 players) Dunwich II,2021-12-30 22:19:34,2001,Zoey Samaras,2021,12,30
+35102,Zoey Samaras (2 players) Dunwich II,2021-12-30 22:19:34,2001,Zoey Samaras,2021,12,30
+35103,Zoey Samaras (2 players) Dunwich II,2021-12-30 22:19:34,2001,Zoey Samaras,2021,12,30
+35104,Zoey Samaras (2 players) Dunwich II,2021-12-30 22:19:34,2001,Zoey Samaras,2021,12,30
+35105,Zoey Samaras (2 players) Dunwich II,2021-12-30 22:19:34,2001,Zoey Samaras,2021,12,30
+35106,mazzo base Daisy Walker ,2021-12-30 22:34:55,1002,Daisy Walker,2021,12,30
+35107,"mazzo base The ""Skids"" O'Toole Job",2021-12-30 22:44:02,1003,"""Skids"" O'Toole",2021,12,30
+35108,mazzo base The Agnes Baker Mysteries,2021-12-30 22:56:44,1004,Agnes Baker,2021,12,30
+35109,Mazzo base Wendy Adams on the Road,2021-12-30 23:04:27,1005,Wendy Adams,2021,12,30
+35110,Tommy Muldoon: Special Ability: Inheritance Tax,2021-12-31 04:28:00,6001,Tommy Muldoon,2021,12,31
+35111,Leo 'the Hammer' Anderson in 'Edge of the Earth',2021-12-31 04:33:25,4001,Leo Anderson,2021,12,31
+35112,The Adventures of Daniela Reyes,2021-12-31 15:15:47,8001,Daniela Reyes,2021,12,31
+35113,Working Overtime - 10+ Hard Actions each turn,2021-12-31 15:58:12,8016,Bob Jenkins,2021,12,31
+35114,The Adventures of Daniela Reyes,2021-12-31 16:06:58,8001,Daniela Reyes,2021,12,31
+35115,Djinndy OG/OG Level 0,2021-12-31 16:56:32,1005,Wendy Adams,2021,12,31
+35116,"Roland Banks - Surviving Solo ""Gathering"" ",2021-12-31 18:31:36,1001,Roland Banks,2021,12,31
+35117,"Roland Banks - Surviving Solo ""Gathering"" ",2021-12-31 18:31:36,1001,Roland Banks,2021,12,31
+35119,Silas Marsh on the Road,2021-12-31 19:15:53,7005,Silas Marsh,2021,12,31
+35120,Joe Diamond - Circle Undone,2021-12-31 22:57:11,5002,Joe Diamond,2021,12,31
+35121,Calvin Wright deck,2021-12-31 23:42:10,4005,Calvin Wright,2021,12,31
